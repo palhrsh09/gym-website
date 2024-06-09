@@ -1,8 +1,20 @@
-# gym-typescript
+# Gym Website
 
-Build a Complete Typescript React Fitness Application for Beginners
+## Technology Stack
+- **Frontend:** React.js, TypeScript, Tailwind CSS
+- **Build Tool:** Vite
+- **Scrolling and Animations:** React Anchor Link Smooth Scroll, Framer Motion
 
-Video: https://www.youtube.com/watch?v=I2NNxr3WPDo
+## Features
+- Utilized React, TypeScript, Vite, and Tailwind CSS to build and style a responsive fitness app.
+- Implemented smooth scrolling with React Anchor Link Smooth Scroll and animations with Framer Motion for dynamic UI.
 
-For all related questions and discussions about this project, check out the discord:
-https://discord.gg/2FfPeEk2mX
+## Setup Instructions
+
+### Frontend Setup
+
+1. Installl the Dependencies
+    npm install
+
+2. Start the frontend server:
+    npm run dev
